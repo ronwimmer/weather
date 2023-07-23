@@ -5,4 +5,5 @@ App de previsão do tempo utilizando Tkinter para o GUI e API de HTTP://www.7tim
 
 -----
 
+Python 3.11
 Pacotes/packages: tkinter, requests, json, datetime
